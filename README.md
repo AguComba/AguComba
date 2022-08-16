@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```js
+const samuel = {
+  Skills: {
+      BackEnd: [
+          {JavaScript: ['Node', 'Express', 'Sequelize', 'Postgres']},
+          {C#: ['.Net', '.NetCore', 'SQL']}
+        ],
+      FrontEnd: [
+          {JavaScript: ['React', 'Redux', 'Styled Components']},
+          {C#: ['Razor', 'HTML', 'CSS']}       
+        ]
+    },
+  Proyects: [
+      {Api-VideoGames: ['React', 'Redux', 'Node', 'Express', 'Sequelize', 'Postgres']},
+      {AppRubrosss: ['HTML', 'CSS', '.NetCore', 'SQL']}
+    ],
+  FutureTecnologies: ['Python', 'Go', 'Ruby'],
+  Aspirations: ['AI', 'Data Engineer', 'MachineLearning'],
+  CurrentStatus: ["✨Looking for a Job✨"],
+  LocationPreferences: ["✨Fully Remote✨"],
+}
+```
