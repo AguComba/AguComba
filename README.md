@@ -37,3 +37,4 @@ const samuel = {
   LocationPreferences: ["✨Fully Remote✨"],
 }
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AguComba&hide=contribs,prs)
