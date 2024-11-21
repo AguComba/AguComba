@@ -1,24 +1,8 @@
-### Hi there 👋
 
 
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
-<!--
-// STATS DE GITHUB 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AguComba&show_icons=true&theme=transparent)
-
-**AguComba/AguComba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-```
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AguComba&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
