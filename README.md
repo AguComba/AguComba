@@ -17,11 +17,9 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador y entusiasta de la tecnología, siempre en búsqueda de nuevos desafíos y proyectos emocionantes. Actualmente trabajo en CoopTech y Pymba, donde tengo la oportunidad de aplicar y mejorar mis habilidades.
 
-<h3 align="center">🚀 Tecnologías y Herramientas que Utilizo</h3>
-
-<h2 align="center">📈 Estadísticas de GitHub</h2>
 <bord>
-<details><summary> <h3 align="center">🏆 Trofeos del Perfil de GitHub</h3></summary>
+<h2 align="center">📈 Estadísticas de GitHub</h2>
+<details align="center"><summary> <h3 align="center">🏆 Trofeos del Perfil de GitHub</h3></summary>
 
 ----
 	
