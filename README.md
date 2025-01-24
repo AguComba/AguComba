@@ -22,6 +22,15 @@
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=agucomba&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4&column=5)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agucomba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+<div align="center">
+  <img src="https://profile-counter.glitch.me/agucomba/count.svg?"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/agucomba/agucomba/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
