@@ -8,7 +8,7 @@
 
 <br/>
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador y entusiasta de la tecnología, siempre en búsqueda de nuevos desafíos y proyectos emocionantes. Actualmente trabajo en CoopTech y Pymba, donde tengo la oportunidad de aplicar y mejorar mis habilidades.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador y entusiasta de la tecnología, siempre en búsqueda de nuevos desafíos y proyectos emocionantes. Actualmente trabajo en Enviopack y Pymba, donde tengo la oportunidad de aplicar y mejorar mis habilidades.
 
 <bord>
 
